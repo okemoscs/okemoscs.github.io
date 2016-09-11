@@ -6,8 +6,29 @@
     <description>Recent content on Okemos CS Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Sep 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okemoscs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact</title>
+      <link>https://okemoscs.github.io/contact/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okemoscs.github.io/contact/</guid>
+      <description>&lt;form action=&#34;https://formspree.io/okemoscsclub@gmail.com&#34; method=&#34;POST&#34; class=&#34;w6&#34;&gt;
+    &lt;div class=&#34;&#34;&gt;
+        &lt;input class=&#34;mv1 w-100&#34; type=&#34;text&#34; name=&#34;name&#34; placeholder=&#34;Your name here...&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;&#34;&gt;
+        &lt;input class=&#34;mv1 w-100&#34; type=&#34;email&#34; name=&#34;_replyto&#34; placeholder=&#34;Your email here...&#34;&gt;
+    &lt;/div&gt;
+    &lt;textarea class=&#34;mv1 w-100 h4&#34; name=&#34;message&#34; placeholder=&#34;Your message&#34;&gt;&lt;/textarea&gt;
+    &lt;div&gt;
+        &lt;input class=&#34;w-100 ml0 button-primary&#34; type=&#34;submit&#34; value=&#34;Send&#34;&gt;
+    &lt;/div&gt;
+&lt;/form&gt;
+</description>
+    </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
@@ -483,15 +504,6 @@ Hugo is a static site engine written in Go.&lt;/p&gt;
 
 &lt;p&gt;Thanks for reading!&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://okemoscs.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okemoscs.github.io/contact/</guid>
-      <description></description>
     </item>
     
     <item>
