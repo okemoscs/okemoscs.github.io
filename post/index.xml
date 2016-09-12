@@ -10,14 +10,26 @@
     <atom:link href="https://okemoscs.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>New Website!</title>
+      <title>First Meeting</title>
+      <link>https://okemoscs.github.io/post/firstmeeting/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okemoscs.github.io/post/firstmeeting/</guid>
+      <description>&lt;p&gt;Our first meeting is on Oct. 11th. This
+meeting will probably be about 30 minutes to give new members a good idea
+of what this club is about.&lt;/p&gt;
+
+&lt;p&gt;Please refer to the FAQ page to see what you need to bring.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Okemos High School Computer Science Club Website</title>
       <link>https://okemoscs.github.io/post/newsite/</link>
       <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okemoscs.github.io/post/newsite/</guid>
-      <description>&lt;p&gt;Welcome to the new website! It already has a contact form, along with some custom css.
-As time progresses, I will slowly change this into a completly custom theme by rewriting most of the css and html, but keeping the overall layout.
-More updates will be here very soon. Click on the FAQ page to learn more.&lt;/p&gt;
+      <description>&lt;p&gt;&amp;ldquo;Students will gain programming experience that will be applied to the real world&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     

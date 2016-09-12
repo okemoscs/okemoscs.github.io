@@ -12,11 +12,6 @@
   </url>
   
   <url>
-    <loc>https://okemoscs.github.io/post/newsite/</loc>
-    <lastmod>2016-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://okemoscs.github.io/FAQ/</loc>
   </url>
   
@@ -26,6 +21,16 @@
   
   <url>
     <loc>https://okemoscs.github.io/officers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://okemoscs.github.io/post/firstmeeting/</loc>
+    <lastmod>2016-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okemoscs.github.io/post/newsite/</loc>
+    <lastmod>2016-09-11T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
