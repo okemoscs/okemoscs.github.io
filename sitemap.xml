@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://okemoscs.github.io/</loc>
-    <lastmod>2016-09-11T00:00:00+00:00</lastmod>
+    <loc>https://okemoscs.github.io/post/newyear/</loc>
+    <lastmod>2017-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okemoscs.github.io/post/wrapup/</loc>
+    <lastmod>2017-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -12,7 +18,22 @@
   </url>
   
   <url>
-    <loc>https://okemoscs.github.io/FAQ/</loc>
+    <loc>https://okemoscs.github.io/post/firstmeeting/</loc>
+    <lastmod>2016-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okemoscs.github.io/post/newsite/</loc>
+    <lastmod>2016-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okemoscs.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okemoscs.github.io/faq/</loc>
   </url>
   
   <url>
@@ -24,13 +45,32 @@
   </url>
   
   <url>
-    <loc>https://okemoscs.github.io/post/firstmeeting/</loc>
-    <lastmod>2016-09-11T00:00:00+00:00</lastmod>
+    <loc>https://okemoscs.github.io/</loc>
+    <lastmod>2017-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okemoscs.github.io/post/newsite/</loc>
+    <loc>https://okemoscs.github.io/post/</loc>
+    <lastmod>2017-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okemoscs.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okemoscs.github.io/categories/update/</loc>
+    <lastmod>2017-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okemoscs.github.io/categories/web-dev/</loc>
     <lastmod>2016-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

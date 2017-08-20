@@ -6,8 +6,29 @@
     <description>Recent content on Okemos CS Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Sep 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://okemoscs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okemoscs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Year</title>
+      <link>https://okemoscs.github.io/post/newyear/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okemoscs.github.io/post/newyear/</guid>
+      <description>Okemos CS Club will be continuing this year. We are planning on competing in the governor&amp;rsquo;s cybersecurity challenge, MHacks, and Spartahack. I have not come up with a first meeting date and time quite yet, so watch for it on the website. I will try and announce it in school, and I will put up posters for it. We will most likely have a few meetings in September just for the Cybersecurity Challenge and for MHacks.</description>
+    </item>
+    
+    <item>
+      <title>End of the year</title>
+      <link>https://okemoscs.github.io/post/wrapup/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okemoscs.github.io/post/wrapup/</guid>
+      <description>The year is now drawing to a close. This year, Okemos CS Club went to Spartahack, where we competed, and many of our members learned basic programming skills. Next year, we will be going to both MHacks, Spartahack, and we will be competiting in the governor&amp;rsquo;s cyber security challenge. I reccomend learning some of the basics of cybersecurity if you wish to participate.
+Next year, our meetings will be every Tuesday, from 2:45 to 3:45.</description>
+    </item>
     
     <item>
       <title>Contact</title>
@@ -15,89 +36,7 @@
       <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okemoscs.github.io/contact/</guid>
-      <description>&lt;form action=&#34;https://formspree.io/okemoscsclub@gmail.com&#34; method=&#34;POST&#34; class=&#34;w6&#34;&gt;
-    &lt;div class=&#34;&#34;&gt;
-        &lt;input class=&#34;mv1 w-100&#34; type=&#34;text&#34; name=&#34;name&#34; placeholder=&#34;Your name here...&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;&#34;&gt;
-        &lt;input class=&#34;mv1 w-100&#34; type=&#34;email&#34; name=&#34;_replyto&#34; placeholder=&#34;Your email here...&#34;&gt;
-    &lt;/div&gt;
-    &lt;textarea class=&#34;mv1 w-100 h4&#34; name=&#34;message&#34; placeholder=&#34;Your message&#34;&gt;&lt;/textarea&gt;
-    &lt;div&gt;
-        &lt;input class=&#34;w-100 ml0&#34; type=&#34;submit&#34; value=&#34;Send&#34;&gt;
-    &lt;/div&gt;
-&lt;/form&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>https://okemoscs.github.io/FAQ/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okemoscs.github.io/FAQ/</guid>
-      <description>
-
-&lt;h3 id=&#34;when-do-we-meet&#34;&gt;When do we meet?&lt;/h3&gt;
-
-&lt;p&gt;We meet on Tuesdays in Mr. Harrod&amp;rsquo;s room (Room No) from 3:00 - 3:45&lt;/p&gt;
-
-&lt;h3 id=&#34;when-is-the-first-meeting&#34;&gt;When is the first meeting?&lt;/h3&gt;
-
-&lt;p&gt;Our first meeting is on Oct. 11th, for the 2016-2017 school year. This
-meeting will probably be about 30 minutes to give new members a good idea
-of what this club is about.&lt;/p&gt;
-
-&lt;h3 id=&#34;do-i-need-to-bring-anything&#34;&gt;Do I need to bring anything?&lt;/h3&gt;
-
-&lt;p&gt;You should bring in your student or personal device to code on, and some scrap paper to sketch out ideas.
-Even if you aren&amp;rsquo;t a designer, scrap paper can be useful for logic diagrams before you start coding.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Important Dates</title>
-      <link>https://okemoscs.github.io/dates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okemoscs.github.io/dates/</guid>
-      <description>
-
-&lt;h2 id=&#34;club-related&#34;&gt;Club Related&lt;/h2&gt;
-
-&lt;h4 id=&#34;oct-11th-2016-first-meeting&#34;&gt;Oct. 11th, 2016: First Meeting&lt;/h4&gt;
-
-&lt;p&gt;Our first meeting is on Oct. 11th, for the 2016-2017 school year. This
-meeting will probably be about 30 minutes to give new members a good idea
-of what this club is about.&lt;/p&gt;
-
-&lt;h2 id=&#34;competition&#34;&gt;Competition&lt;/h2&gt;
-
-&lt;h4 id=&#34;oct-7-9th-2016-mhacks&#34;&gt;Oct. 7-9th, 2016: MHACKS&lt;/h4&gt;
-
-&lt;p&gt;Takes place from Oct. 7-9
-Link: &lt;a href=&#34;https://mhacks.org/&#34;&gt;MHACKS&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Officers</title>
-      <link>https://okemoscs.github.io/officers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okemoscs.github.io/officers/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Teacher Advisor: Brian Harrod&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;President: Arham Jain (2016-18)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vice President: TBD&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;devs&#34;&gt;Devs:&lt;/h3&gt;
-
-&lt;p&gt;HTML/CSS Dev: TBD&lt;/p&gt;
-</description>
+      <description>      </description>
     </item>
     
     <item>
@@ -106,12 +45,8 @@ Link: &lt;a href=&#34;https://mhacks.org/&#34;&gt;MHACKS&lt;/a&gt;&lt;/p&gt;
       <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okemoscs.github.io/post/firstmeeting/</guid>
-      <description>&lt;p&gt;Our first meeting is on Oct. 11th. This
-meeting will probably be about 30 minutes to give new members a good idea
-of what this club is about.&lt;/p&gt;
-
-&lt;p&gt;Please refer to the FAQ page to see what you need to bring.&lt;/p&gt;
-</description>
+      <description>Our first meeting is on Oct. 11th. This meeting will probably be about 30 minutes to give new members a good idea of what this club is about.
+Please refer to the FAQ page to see what you need to bring.</description>
     </item>
     
     <item>
@@ -120,8 +55,40 @@ of what this club is about.&lt;/p&gt;
       <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okemoscs.github.io/post/newsite/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Students will gain programming experience that will be applied to the real world&amp;rdquo;&lt;/p&gt;
-</description>
+      <description>&amp;ldquo;Students will gain programming experience that will be applied to the real world&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://okemoscs.github.io/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okemoscs.github.io/faq/</guid>
+      <description>When do we meet? We meet on Tuesdays in Mr. Harrod&amp;rsquo;s room (Room No) from 3:00 - 3:45
+When is the first meeting? Our first meeting is on Oct. 11th, for the 2016-2017 school year. This meeting will probably be about 30 minutes to give new members a good idea of what this club is about.
+Do I need to bring anything? You should bring in your student or personal device to code on, and some scrap paper to sketch out ideas.</description>
+    </item>
+    
+    <item>
+      <title>Important Dates</title>
+      <link>https://okemoscs.github.io/dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okemoscs.github.io/dates/</guid>
+      <description>Club Related Oct. 11th, 2016: First Meeting Our first meeting is on Oct. 11th, for the 2016-2017 school year. This meeting will probably be about 30 minutes to give new members a good idea of what this club is about.
+Competition Oct. 7-9th, 2016: MHACKS Takes place from Oct. 7-9 Link: MHACKS</description>
+    </item>
+    
+    <item>
+      <title>Officers</title>
+      <link>https://okemoscs.github.io/officers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okemoscs.github.io/officers/</guid>
+      <description>Teacher Advisor: Brian Harrod
+President: Arham Jain (2016-18)
+Vice President: TBD
+Devs: HTML/CSS Dev: TBD</description>
     </item>
     
   </channel>
